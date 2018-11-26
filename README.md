@@ -8,7 +8,6 @@ an automatic build tool for making C/C++ API for interfacing with Apache ActiveM
           * `cd "~/path-to-the-directory-of-ActiveMQ-APIs/"`
           * `sudo chmod +x ./CInstall.sh`
           * `./CInstall.sh`
-  * **Windows**
-      * Not implemented yet
+
        
     
